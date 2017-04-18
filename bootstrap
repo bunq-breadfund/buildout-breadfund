@@ -1,0 +1,1 @@
+python bootstrap.py -c buildout.cfg --setuptools-version=39.2.0 --buildout-version=2.11.4

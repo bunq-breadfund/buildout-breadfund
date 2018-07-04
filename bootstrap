@@ -1,1 +1,2 @@
-python bootstrap.py -c buildout.cfg --setuptools-version=39.2.0 --buildout-version=2.11.4
+python3 bootstrap.py -c local.cfg --setuptools-version=39.2.0 --buildout-version=2.12.1
+#python3 bootstrap.py -c local.cfg

@@ -4,6 +4,7 @@
 
 # Anybox buildout recipe related
 develop-eggs
+logfile/*
 eggs/*
 parts/*
 buildout.cfg
